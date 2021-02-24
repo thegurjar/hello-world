@@ -1,5 +1,5 @@
 # Pull base image 
-FROM tomcat:8.0-jre8 
+FROM cosmomill/alpine-tomcat-jre8
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
